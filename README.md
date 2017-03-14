@@ -1,35 +1,35 @@
-# _{My First Webpage }_
+# My First Webpage
 
-#### _{This is my first webpage}, {March 13, 2017}_
+#### This is my first webpage, March 13, 2017
 
-#### By _**{Dana Weiss}**_
+#### By Dana Weiss
 
 ## Description
 
-_{This is a very simple webpage to practice my skills. }_
+This is a very simple webpage to practice my skills.
 
 ## Setup/Installation Requirements
 
-* _Clone the repository
-* _Open an http server
-* _open your web browser of choice
+* Clone the repository
+* Open an http server
+* open your web browser of choice
 * edit in a text editor
-*
+
 
 ## Known Bugs
 
-_{No known bugs }_
+No known bugs
 
 ## Support and contact details
 
-_{Dana Weiss mynamedanaweiss@gmail.com}_
+Dana Weiss mynamedanaweiss@gmail.com
 
 ## Technologies Used
 
-_{I used HTML and CSS}_
+I used HTML and CSS
 
 ### License
 
-*{Open Source.}*
+Open Source.
 
 Copyright (c) 2017 **_{Epicodus, Dana Weiss, Tyler Stevenson}_**
